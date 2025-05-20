@@ -11,8 +11,7 @@ alt="A close-up of a logo AI-generated content may be incorrect." />
 alt="A logo with text on it AI-generated content may be incorrect." />
 
 <img src="./media/image3.jpeg" style="width:1.47153in;height:1.39583in"
-alt="A blue logo with black text AI-generated content may be incorrect." /><img src="./media/image4.png" style="width:3.44278in;height:0.86012in"
-alt="Blue text on a black background AI-generated content may be incorrect." />
+alt="A blue logo with black text AI-generated content may be incorrect." />
 
 <img src="./media/image4.png" style="width:3.4191in;height:0.93393in"
 alt="Blue text on a black background AI-generated content may be incorrect." />
