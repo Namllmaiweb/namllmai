@@ -26,35 +26,35 @@ alt="Blue text on a black background AI-generated content may be incorrect." />
     </tr>
     <tr>
       <td>3</td>
-      <td>Generics and Differentiated Drugs</td>
+      <td style="text-align: left;">Generics and Differentiated Drugs</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>New Chemical Entities/ New Biological Entities</td>
+      <td style="text-align: left;">New Chemical Entities/ New Biological Entities</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Cell and gene therapies</td>
+      <td style="text-align: left;">Cell and gene therapies</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Biosimilars</td>
+      <td style="text-align: left;">Biosimilars</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Non Animal Methodologies (NAMs) for Drug testing</td>
+      <td style="text-align: left;">Non Animal Methodologies (NAMs) for Drug testing</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Cross sectoral tests: Pyrogen testing</td>
+      <td style="text-align: left;">Cross sectoral tests: Pyrogen testing</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Vaccines</td>
+      <td style="text-align: left;">Vaccines</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Ecosystem level recommendations</td>
+      <td style="text-align: left;">Ecosystem level recommendations</td>
     </tr>
   </tbody>
 </table>
