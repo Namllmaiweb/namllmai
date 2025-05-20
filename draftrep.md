@@ -1,7 +1,3 @@
-**Draft report:**
-
-**Landscape Analysis on Alternatives to Animal Testing for Drug
-Development**
 
 <img src="./media/image1.png" style="width:3.49306in;height:0.78472in"
 alt="A close-up of a logo AI-generated content may be incorrect." />
