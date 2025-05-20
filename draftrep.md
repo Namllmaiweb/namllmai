@@ -14,7 +14,7 @@ alt="Blue text on a black background AI-generated content may be incorrect." />
 
 > **Index**
 
-1.  Executive Summary
+1.  <td style="text-align: left;"> Executive Summary </td>
 
 2.  Introduction
 
