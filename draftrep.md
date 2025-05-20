@@ -18,11 +18,11 @@ alt="Blue text on a black background AI-generated content may be incorrect." />
 <tbody>
     <tr>
       <td>1</td>
-      <td>Executive Summary</td>
+      <td style="text-align: left;">Executive Summary</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Introduction</td>
+      <td style="text-align: left;">Introduction</td>
     </tr>
     <tr>
       <td>3</td>
