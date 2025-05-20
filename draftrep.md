@@ -14,25 +14,50 @@ alt="Blue text on a black background AI-generated content may be incorrect." />
 
 > **Index**
 
-1.  <td style="text-align: left;"> Executive Summary </td>
-
-2.  Introduction
-
-3.  Generics and Differentiated Drugs
-
-4.  New Chemical Entities/ New Biological Entities
-
-5.  Cell and gene therapies
-
-6.  Biosimilars
-
-7.  Non Animal Methodologies (NAMs) for Drug testing
-
-8.  Cross sectoral tests: Pyrogen testing
-
-9.  Vaccines
-
-10. Ecosystem level recommendations
+<table>
+<tbody>
+    <tr>
+      <td>1</td>
+      <td>Executive Summary</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Introduction</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Generics and Differentiated Drugs</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>New Chemical Entities/ New Biological Entities</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cell and gene therapies</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Biosimilars</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Non Animal Methodologies (NAMs) for Drug testing</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Cross sectoral tests: Pyrogen testing</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Vaccines</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Ecosystem level recommendations</td>
+    </tr>
+  </tbody>
+</table>
 
 > **1: Executive Summary**
 
